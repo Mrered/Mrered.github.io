@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mrered.github.io</id>
+    <title>🐿️松鼠收集🌰</title>
+    <updated>2023-08-22T04:11:27.764Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mrered.github.io"/>
+    <link rel="self" href="https://mrered.github.io/atom.xml"/>
+    <subtitle>一个软件收藏家</subtitle>
+    <logo>https://mrered.github.io/images/avatar.png</logo>
+    <icon>https://mrered.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 🐿️松鼠收集🌰</rights>
+    <entry>
+        <title type="html"><![CDATA[ceuiwfvh]]></title>
+        <id>https://mrered.github.io/post/ceuiwfvh/</id>
+        <link href="https://mrered.github.io/post/ceuiwfvh/">
+        </link>
+        <updated>2023-08-22T03:54:56.000Z</updated>
+        <content type="html"><![CDATA[<p>emm</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[申请 Azure 学生计划]]></title>
+        <id>https://mrered.github.io/post/shen-qing-azure-xue-sheng-ji-hua/</id>
+        <link href="https://mrered.github.io/post/shen-qing-azure-xue-sheng-ji-hua/">
+        </link>
+        <updated>2023-08-20T03:56:02.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="前情提要">前情提要</h2>
+<blockquote>
+<p>在阅读本文前，你必须有一个<strong>教育邮箱</strong>！否则就是在浪费时间哦！</p>
+</blockquote>
+<p>Azure 有一个名叫 <code>学生计划</code> 的订阅方案，使用教育邮箱即可完成验证。 Azure 还有一个续杯🥤政策，很香！</p>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/2202990577b11d1f86a538e2990bb6a3.webp" width="90%" height="auto" style="display: inline-block"></p>
+<p>有很多免费服务可以自己研究哦！</p>
+<h2 id="申请微软账号">申请微软账号</h2>
+<p>访问 <a href="https://signup.live.com/signup">Microsoft 帐户</a> 自行申请，此处不详述申请过程。地区建议选择中国，其他信息用真实信息即可。</p>
+<h2 id="注册-azure-学生计划">注册 Azure 学生计划</h2>
+<p>访问 <a href="https://azure.microsoft.com/zh-cn/free/students/">面向学生的 Azure - 免费帐户额度 | Microsoft Azure</a> ，登陆微软账号；验证手机号，输入真实手机即可；验证教育信息，输入自己真实学生信息和教育邮箱，可以使用 <code>edu.cn</code> 邮箱；填写真实信息，填学校位置和邮编，不知道的去学校官网查询；成功后在你的微软账号绑定的邮箱可以看到一封邮件。也可以在控制台看到学生计划详细信息。</p>
+<ol>
+<li>准备一个<strong>干净安全的IP</strong>，不要使用代理。若IP风险过高，有可能会导致 Azure 拒绝申请；</li>
+<li>访问 <a href="https://azure.microsoft.com/zh-cn/free/students/">面向学生的 Azure - 免费帐户额度 | Microsoft Azure</a> ，登陆微软账号；</li>
+<li>验证手机号，输入真实手机即可；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/2dae0ca94f9ef6011cccbb792d7fce4e.webp" width="90%" height="auto" style="display: inline-block"></p>
+<ol start="4">
+<li>验证教育信息，输入自己真实学生信息和教育邮箱，可以使用 <code>edu.cn</code> 邮箱；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/9e8a1cc325eaaf35e387500798d4de1c.webp" width="90%" height="auto" style="display: inline-block"></p>
+<ol start="5">
+<li>前往邮箱点击链接完成验证；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/0b5a308b30eeff0b38f722ce7aaa4f95.webp" width="90%" height="auto" style="display: inline-block"></p>
+<ol start="6">
+<li>跳转到网页继续验证；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/e7446369f157f17eee55f46275910e7b.webp" width="60%" height="auto" style="display: inline-block"></p>
+<ol start="7">
+<li>填写真实信息，填学校位置和邮编，不知道的去学校官网查询；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/94a77efde038ebd11bbbd63333a24ebb.webp" width="60%" height="auto" style="display: inline-block"></p>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/bd9c3d2b828592a7452d825f016ebb38.webp" width="60%" height="auto" style="display: inline-block"></p>
+<ol start="8">
+<li>遇到无法验证地址，点击<code>使用此地址</code>；</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/bbe66380dc5187725e6a8adea2013ba9.webp" width="60%" height="auto" style="display: inline-block"></p>
+<ol start="9">
+<li>成功后在你的微软账号绑定的邮箱可以看到一封邮件。</li>
+</ol>
+<p style="text-align: center"><img loading="lazy" src="https://file.uijxmug.top/2023/07/05f15ee998f413fd47554cde06764ac7.webp" width="70%" height="auto" style="display: inline-block"></p>
+<p style="text-align: center">享用吧！🤪</p>
+]]></content>
+    </entry>
+</feed>
